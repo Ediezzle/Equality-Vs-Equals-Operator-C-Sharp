@@ -1,0 +1,11 @@
+C:\Users\Dev Ops\source\repos\EqualityOperatorVsEqualsMethod\EqualityOperatorVsEqualsMethod\bin\Debug\netcoreapp3.1\EqualityOperatorVsEqualsMethod.exe
+C:\Users\Dev Ops\source\repos\EqualityOperatorVsEqualsMethod\EqualityOperatorVsEqualsMethod\bin\Debug\netcoreapp3.1\EqualityOperatorVsEqualsMethod.deps.json
+C:\Users\Dev Ops\source\repos\EqualityOperatorVsEqualsMethod\EqualityOperatorVsEqualsMethod\bin\Debug\netcoreapp3.1\EqualityOperatorVsEqualsMethod.runtimeconfig.json
+C:\Users\Dev Ops\source\repos\EqualityOperatorVsEqualsMethod\EqualityOperatorVsEqualsMethod\bin\Debug\netcoreapp3.1\EqualityOperatorVsEqualsMethod.runtimeconfig.dev.json
+C:\Users\Dev Ops\source\repos\EqualityOperatorVsEqualsMethod\EqualityOperatorVsEqualsMethod\bin\Debug\netcoreapp3.1\EqualityOperatorVsEqualsMethod.dll
+C:\Users\Dev Ops\source\repos\EqualityOperatorVsEqualsMethod\EqualityOperatorVsEqualsMethod\bin\Debug\netcoreapp3.1\EqualityOperatorVsEqualsMethod.pdb
+C:\Users\Dev Ops\source\repos\EqualityOperatorVsEqualsMethod\EqualityOperatorVsEqualsMethod\obj\Debug\netcoreapp3.1\EqualityOperatorVsEqualsMethod.csprojAssemblyReference.cache
+C:\Users\Dev Ops\source\repos\EqualityOperatorVsEqualsMethod\EqualityOperatorVsEqualsMethod\obj\Debug\netcoreapp3.1\EqualityOperatorVsEqualsMethod.AssemblyInfoInputs.cache
+C:\Users\Dev Ops\source\repos\EqualityOperatorVsEqualsMethod\EqualityOperatorVsEqualsMethod\obj\Debug\netcoreapp3.1\EqualityOperatorVsEqualsMethod.AssemblyInfo.cs
+C:\Users\Dev Ops\source\repos\EqualityOperatorVsEqualsMethod\EqualityOperatorVsEqualsMethod\obj\Debug\netcoreapp3.1\EqualityOperatorVsEqualsMethod.dll
+C:\Users\Dev Ops\source\repos\EqualityOperatorVsEqualsMethod\EqualityOperatorVsEqualsMethod\obj\Debug\netcoreapp3.1\EqualityOperatorVsEqualsMethod.pdb
